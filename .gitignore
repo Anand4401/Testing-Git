@@ -1,0 +1,30 @@
+# Eclipse project files
+.project
+.classpath
+.settings/
+
+# Eclipse metadata
+.metadata/
+.recommenders/
+
+# Build output folders
+bin/
+build/
+target/
+out/
+
+# Java compiled files
+*.class
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
